@@ -1,4 +1,4 @@
-# Group-2-RSNA-Intracranial-Aneurysm-Detection
+# Group-3-RSNA-Intracranial-Aneurysm-Detection
 Group 2 ML project on RSNA Intracranial Aneurysm Detection
 
 RSNA Intracranial Aneurysm Detection Project
