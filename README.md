@@ -30,7 +30,7 @@ We're working with large 3D scans, which takes a lot of computing power. For tra
 
 Step 1: Get the Code
 First, you'll need to download the project code. If you're using Git, just clone the repository:
-git clone [YOUR_REPOSITORY_URL]
+git clone [https://github.com/kunalakriti/Group-2-RSNA-Intracranial-Aneurysm-Detection]
 ...and then cd into the new project folder.
 
 Step 2: Set Up Your Workspace (Virtual Environment)
