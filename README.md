@@ -9,7 +9,7 @@ We're building a system to automatically find and map intracranial aneurysms fro
 
 Python: We're using Python 3.8 or newer. This is what all our scripts are written in.
 
-Python Libraries: We are using bunch of Python libraries:
+Python Libraries: We are using bunch of Python libraries which are:
 
 pytorch (or tensorflow): This is for building and training our deep learning models.
 
